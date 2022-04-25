@@ -1,0 +1,14 @@
+C:\Users\Vojche\Desktop\Homeworks Basic C#\Homeworks Basic C Sharp\Class 08-Homework\Class08-Homework\bin\Debug\netcoreapp3.1\Class08-Homework.exe
+C:\Users\Vojche\Desktop\Homeworks Basic C#\Homeworks Basic C Sharp\Class 08-Homework\Class08-Homework\bin\Debug\netcoreapp3.1\Class08-Homework.deps.json
+C:\Users\Vojche\Desktop\Homeworks Basic C#\Homeworks Basic C Sharp\Class 08-Homework\Class08-Homework\bin\Debug\netcoreapp3.1\Class08-Homework.runtimeconfig.json
+C:\Users\Vojche\Desktop\Homeworks Basic C#\Homeworks Basic C Sharp\Class 08-Homework\Class08-Homework\bin\Debug\netcoreapp3.1\Class08-Homework.runtimeconfig.dev.json
+C:\Users\Vojche\Desktop\Homeworks Basic C#\Homeworks Basic C Sharp\Class 08-Homework\Class08-Homework\bin\Debug\netcoreapp3.1\Class08-Homework.dll
+C:\Users\Vojche\Desktop\Homeworks Basic C#\Homeworks Basic C Sharp\Class 08-Homework\Class08-Homework\bin\Debug\netcoreapp3.1\Class08-Homework.pdb
+C:\Users\Vojche\Desktop\Homeworks Basic C#\Homeworks Basic C Sharp\Class 08-Homework\Class08-Homework\obj\Debug\netcoreapp3.1\Class08-Homework.csproj.AssemblyReference.cache
+C:\Users\Vojche\Desktop\Homeworks Basic C#\Homeworks Basic C Sharp\Class 08-Homework\Class08-Homework\obj\Debug\netcoreapp3.1\Class08-Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vojche\Desktop\Homeworks Basic C#\Homeworks Basic C Sharp\Class 08-Homework\Class08-Homework\obj\Debug\netcoreapp3.1\Class08-Homework.AssemblyInfoInputs.cache
+C:\Users\Vojche\Desktop\Homeworks Basic C#\Homeworks Basic C Sharp\Class 08-Homework\Class08-Homework\obj\Debug\netcoreapp3.1\Class08-Homework.AssemblyInfo.cs
+C:\Users\Vojche\Desktop\Homeworks Basic C#\Homeworks Basic C Sharp\Class 08-Homework\Class08-Homework\obj\Debug\netcoreapp3.1\Class08-Homework.csproj.CoreCompileInputs.cache
+C:\Users\Vojche\Desktop\Homeworks Basic C#\Homeworks Basic C Sharp\Class 08-Homework\Class08-Homework\obj\Debug\netcoreapp3.1\Class08-Homework.dll
+C:\Users\Vojche\Desktop\Homeworks Basic C#\Homeworks Basic C Sharp\Class 08-Homework\Class08-Homework\obj\Debug\netcoreapp3.1\Class08-Homework.pdb
+C:\Users\Vojche\Desktop\Homeworks Basic C#\Homeworks Basic C Sharp\Class 08-Homework\Class08-Homework\obj\Debug\netcoreapp3.1\Class08-Homework.genruntimeconfig.cache

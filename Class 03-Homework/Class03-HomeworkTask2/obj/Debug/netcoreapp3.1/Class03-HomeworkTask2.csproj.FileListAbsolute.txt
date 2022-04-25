@@ -1,0 +1,14 @@
+C:\Users\Vojche\Desktop\Homeworks Basic C#\Homeworks Basic C Sharp\Class 03-Homework\Class03-HomeworkTask2\bin\Debug\netcoreapp3.1\Class03-HomeworkTask2.exe
+C:\Users\Vojche\Desktop\Homeworks Basic C#\Homeworks Basic C Sharp\Class 03-Homework\Class03-HomeworkTask2\bin\Debug\netcoreapp3.1\Class03-HomeworkTask2.deps.json
+C:\Users\Vojche\Desktop\Homeworks Basic C#\Homeworks Basic C Sharp\Class 03-Homework\Class03-HomeworkTask2\bin\Debug\netcoreapp3.1\Class03-HomeworkTask2.runtimeconfig.json
+C:\Users\Vojche\Desktop\Homeworks Basic C#\Homeworks Basic C Sharp\Class 03-Homework\Class03-HomeworkTask2\bin\Debug\netcoreapp3.1\Class03-HomeworkTask2.runtimeconfig.dev.json
+C:\Users\Vojche\Desktop\Homeworks Basic C#\Homeworks Basic C Sharp\Class 03-Homework\Class03-HomeworkTask2\bin\Debug\netcoreapp3.1\Class03-HomeworkTask2.dll
+C:\Users\Vojche\Desktop\Homeworks Basic C#\Homeworks Basic C Sharp\Class 03-Homework\Class03-HomeworkTask2\bin\Debug\netcoreapp3.1\Class03-HomeworkTask2.pdb
+C:\Users\Vojche\Desktop\Homeworks Basic C#\Homeworks Basic C Sharp\Class 03-Homework\Class03-HomeworkTask2\obj\Debug\netcoreapp3.1\Class03-HomeworkTask2.csproj.AssemblyReference.cache
+C:\Users\Vojche\Desktop\Homeworks Basic C#\Homeworks Basic C Sharp\Class 03-Homework\Class03-HomeworkTask2\obj\Debug\netcoreapp3.1\Class03-HomeworkTask2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vojche\Desktop\Homeworks Basic C#\Homeworks Basic C Sharp\Class 03-Homework\Class03-HomeworkTask2\obj\Debug\netcoreapp3.1\Class03-HomeworkTask2.AssemblyInfoInputs.cache
+C:\Users\Vojche\Desktop\Homeworks Basic C#\Homeworks Basic C Sharp\Class 03-Homework\Class03-HomeworkTask2\obj\Debug\netcoreapp3.1\Class03-HomeworkTask2.AssemblyInfo.cs
+C:\Users\Vojche\Desktop\Homeworks Basic C#\Homeworks Basic C Sharp\Class 03-Homework\Class03-HomeworkTask2\obj\Debug\netcoreapp3.1\Class03-HomeworkTask2.csproj.CoreCompileInputs.cache
+C:\Users\Vojche\Desktop\Homeworks Basic C#\Homeworks Basic C Sharp\Class 03-Homework\Class03-HomeworkTask2\obj\Debug\netcoreapp3.1\Class03-HomeworkTask2.dll
+C:\Users\Vojche\Desktop\Homeworks Basic C#\Homeworks Basic C Sharp\Class 03-Homework\Class03-HomeworkTask2\obj\Debug\netcoreapp3.1\Class03-HomeworkTask2.pdb
+C:\Users\Vojche\Desktop\Homeworks Basic C#\Homeworks Basic C Sharp\Class 03-Homework\Class03-HomeworkTask2\obj\Debug\netcoreapp3.1\Class03-HomeworkTask2.genruntimeconfig.cache

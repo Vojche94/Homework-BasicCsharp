@@ -1,0 +1,14 @@
+C:\Users\Vojche\Desktop\Homeworks Basic C#\Homeworks Basic C Sharp\Class08-Homework-Queue\bin\Debug\netcoreapp3.1\Class08-Homework-Queue.exe
+C:\Users\Vojche\Desktop\Homeworks Basic C#\Homeworks Basic C Sharp\Class08-Homework-Queue\bin\Debug\netcoreapp3.1\Class08-Homework-Queue.deps.json
+C:\Users\Vojche\Desktop\Homeworks Basic C#\Homeworks Basic C Sharp\Class08-Homework-Queue\bin\Debug\netcoreapp3.1\Class08-Homework-Queue.runtimeconfig.json
+C:\Users\Vojche\Desktop\Homeworks Basic C#\Homeworks Basic C Sharp\Class08-Homework-Queue\bin\Debug\netcoreapp3.1\Class08-Homework-Queue.runtimeconfig.dev.json
+C:\Users\Vojche\Desktop\Homeworks Basic C#\Homeworks Basic C Sharp\Class08-Homework-Queue\bin\Debug\netcoreapp3.1\Class08-Homework-Queue.dll
+C:\Users\Vojche\Desktop\Homeworks Basic C#\Homeworks Basic C Sharp\Class08-Homework-Queue\bin\Debug\netcoreapp3.1\Class08-Homework-Queue.pdb
+C:\Users\Vojche\Desktop\Homeworks Basic C#\Homeworks Basic C Sharp\Class08-Homework-Queue\obj\Debug\netcoreapp3.1\Class08-Homework-Queue.csproj.AssemblyReference.cache
+C:\Users\Vojche\Desktop\Homeworks Basic C#\Homeworks Basic C Sharp\Class08-Homework-Queue\obj\Debug\netcoreapp3.1\Class08-Homework-Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vojche\Desktop\Homeworks Basic C#\Homeworks Basic C Sharp\Class08-Homework-Queue\obj\Debug\netcoreapp3.1\Class08-Homework-Queue.AssemblyInfoInputs.cache
+C:\Users\Vojche\Desktop\Homeworks Basic C#\Homeworks Basic C Sharp\Class08-Homework-Queue\obj\Debug\netcoreapp3.1\Class08-Homework-Queue.AssemblyInfo.cs
+C:\Users\Vojche\Desktop\Homeworks Basic C#\Homeworks Basic C Sharp\Class08-Homework-Queue\obj\Debug\netcoreapp3.1\Class08-Homework-Queue.csproj.CoreCompileInputs.cache
+C:\Users\Vojche\Desktop\Homeworks Basic C#\Homeworks Basic C Sharp\Class08-Homework-Queue\obj\Debug\netcoreapp3.1\Class08-Homework-Queue.dll
+C:\Users\Vojche\Desktop\Homeworks Basic C#\Homeworks Basic C Sharp\Class08-Homework-Queue\obj\Debug\netcoreapp3.1\Class08-Homework-Queue.pdb
+C:\Users\Vojche\Desktop\Homeworks Basic C#\Homeworks Basic C Sharp\Class08-Homework-Queue\obj\Debug\netcoreapp3.1\Class08-Homework-Queue.genruntimeconfig.cache

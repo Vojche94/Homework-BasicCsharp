@@ -1,0 +1,14 @@
+C:\Users\Vojche\Desktop\Homeworks Basic C#\Homeworks Basic C Sharp\Class 01-Homework\Homework 1\bin\Debug\netcoreapp3.1\Homework 1.exe
+C:\Users\Vojche\Desktop\Homeworks Basic C#\Homeworks Basic C Sharp\Class 01-Homework\Homework 1\bin\Debug\netcoreapp3.1\Homework 1.deps.json
+C:\Users\Vojche\Desktop\Homeworks Basic C#\Homeworks Basic C Sharp\Class 01-Homework\Homework 1\bin\Debug\netcoreapp3.1\Homework 1.runtimeconfig.json
+C:\Users\Vojche\Desktop\Homeworks Basic C#\Homeworks Basic C Sharp\Class 01-Homework\Homework 1\bin\Debug\netcoreapp3.1\Homework 1.runtimeconfig.dev.json
+C:\Users\Vojche\Desktop\Homeworks Basic C#\Homeworks Basic C Sharp\Class 01-Homework\Homework 1\bin\Debug\netcoreapp3.1\Homework 1.dll
+C:\Users\Vojche\Desktop\Homeworks Basic C#\Homeworks Basic C Sharp\Class 01-Homework\Homework 1\bin\Debug\netcoreapp3.1\Homework 1.pdb
+C:\Users\Vojche\Desktop\Homeworks Basic C#\Homeworks Basic C Sharp\Class 01-Homework\Homework 1\obj\Debug\netcoreapp3.1\Homework 1.csproj.AssemblyReference.cache
+C:\Users\Vojche\Desktop\Homeworks Basic C#\Homeworks Basic C Sharp\Class 01-Homework\Homework 1\obj\Debug\netcoreapp3.1\Homework 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vojche\Desktop\Homeworks Basic C#\Homeworks Basic C Sharp\Class 01-Homework\Homework 1\obj\Debug\netcoreapp3.1\Homework 1.AssemblyInfoInputs.cache
+C:\Users\Vojche\Desktop\Homeworks Basic C#\Homeworks Basic C Sharp\Class 01-Homework\Homework 1\obj\Debug\netcoreapp3.1\Homework 1.AssemblyInfo.cs
+C:\Users\Vojche\Desktop\Homeworks Basic C#\Homeworks Basic C Sharp\Class 01-Homework\Homework 1\obj\Debug\netcoreapp3.1\Homework 1.csproj.CoreCompileInputs.cache
+C:\Users\Vojche\Desktop\Homeworks Basic C#\Homeworks Basic C Sharp\Class 01-Homework\Homework 1\obj\Debug\netcoreapp3.1\Homework 1.dll
+C:\Users\Vojche\Desktop\Homeworks Basic C#\Homeworks Basic C Sharp\Class 01-Homework\Homework 1\obj\Debug\netcoreapp3.1\Homework 1.pdb
+C:\Users\Vojche\Desktop\Homeworks Basic C#\Homeworks Basic C Sharp\Class 01-Homework\Homework 1\obj\Debug\netcoreapp3.1\Homework 1.genruntimeconfig.cache
